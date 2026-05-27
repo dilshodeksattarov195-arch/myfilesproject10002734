@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordrocess",
+        "uuid": 3920556,
+        "checksum": "k9mm1i"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
